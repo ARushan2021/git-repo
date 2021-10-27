@@ -1,2 +1,0 @@
-print ("Welcom")
-print ("Wats up")
