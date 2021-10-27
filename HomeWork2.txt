@@ -1,1 +1,2 @@
-print ("HomeWork4")
+print ("HomeWork5")
+проверка
