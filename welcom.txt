@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 print ("Welcom")
 print ("Welcom Welcom")
 print ("Welcom Welcom Welcom")
+=======
+print ("Welcom") master
+>>>>>>> master
