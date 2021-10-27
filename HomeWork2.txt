@@ -1,2 +1,0 @@
-print ("HomeWork5")
-проверка
